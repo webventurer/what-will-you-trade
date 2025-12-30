@@ -2,6 +2,9 @@
 .vscode/*
 !.vscode/tasks.json
 
+# Claude Code
+.claude/
+
 temp
 
 # OSX
