@@ -132,4 +132,4 @@ They may work for a while, but eventually reality catches up. And when it does, 
 
 ---
 
-👉 Next: [Real Value Creation](./real-value-creation-where-wealth-lasts.md) — where we explore what actually builds lasting wealth.
+👉 Next: [Trading as a Real Skill](./trading-as-a-real-skill.md) — when trading is legitimate, and what it actually takes.
